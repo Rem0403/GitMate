@@ -35,3 +35,4 @@ cargo run
 - Open the project folder (the one containing `Cargo.toml`) via File → Open Folder
 
 If you're confused go to this youtube link right here: https://youtu.be/ZhedgZtd8gw
+If still confused highkey ask ai
