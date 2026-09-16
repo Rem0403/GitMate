@@ -28,7 +28,7 @@ cd GitMate
 cargo run
 ```
 
-### Recommended: VS Code setup
+### VS Code setup
 - Install the rust-analyzer
 - Install dependi
 - Install even better toml
